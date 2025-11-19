@@ -19,6 +19,14 @@
   - All callers connect to the operator (central point).
   - The operator connects the caller to the right person.
 
+## Application
+- Modern Office LANs
+  - Most current wired networks use star topology with switches because it’s easy to manage and troubleshoot.
+- Client-Server Networks
+  - Centralized control makes it ideal for setups where servers handle requests from multiple clients.
+- Wi-Fi Networks
+  - Wireless networks often follow a star pattern with an access point acting as the hub.
+
 ## Advantages
 - Easy to manage and troubleshoot.
 - Failure of one device doesn’t affect others.
