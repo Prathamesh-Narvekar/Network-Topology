@@ -20,6 +20,14 @@
   - Each runner (device) passes the baton (data) to the next runner in a circle.
   - The baton keeps moving until it reaches the intended runner.
 
+# Applications
+- Token Ring Networks (IBM)
+  - Historically used in LANs where data passed in a ring using tokens for access control.
+- Metro Area Networks (MAN)
+  - Fiber optic rings are used for redundancy in city-wide networks.
+- Industrial Control Systems
+  - Predictable data flow makes it suitable for factory automation and monitoring systems.
+
 ## Advantages
 - Data flows in a predictable path.
 - Good for small networks with limited traffic.
