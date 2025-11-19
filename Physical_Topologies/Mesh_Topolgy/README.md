@@ -25,6 +25,14 @@
   - Big cities have direct flights to each other (full mesh).
   - Smaller cities may have fewer direct flights (partial mesh).
 
+## Application
+- Wide Area Networks (WAN)
+  - ISPs and backbone networks use full mesh for reliability and multiple paths.
+- Military Communication Systems
+  - High fault tolerance is critical in mission-critical environments.
+- IoT Networks
+  - Smart home devices (like Zigbee or Thread) use mesh to ensure connectivity even if one node fails.
+
 ## Advantages
 - High reliability and fault tolerance.
 - Multiple paths reduce congestion.
