@@ -11,7 +11,6 @@
 - Only the intended recipient processes the data; others ignore it.
 - Terminators are placed at both ends of the bus to prevent signal reflection.
 
-
 ## Technical Example
 - Imagine a small LAN in an office with 5 computers:
   - All computers are connected to a single coaxial cable.
@@ -23,6 +22,13 @@
   - When the conductor speaks, the message goes to all speakers.
   - Every passenger hears it, but only those who need the info act on it.
 
+## Applications
+- Small LANs (Local Area Networks)
+  - Used in early Ethernet networks where a single coaxial cable connected all computers. Ideal for small setups because it’s cheap and easy to install.
+- Broadcast Networks
+  - Perfect for situations where the same message needs to reach all devices, like announcements or alerts.
+- Temporary Networks
+  - Great for quick setups in labs or testing environments because it’s simple and requires minimal hardware.
 
 ## Advantages
 - Easy to set up.
