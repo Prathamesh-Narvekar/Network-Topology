@@ -1,5 +1,10 @@
 # Star Topology
 
+<div align=center>
+  
+  ![Star_Topology](https://github.com/user-attachments/assets/42cc56bc-d314-49d7-8493-0c3a21d6529d)
+</div>
+
 ## What is Star Topology?
 - Star topology is a network design where all devices are connected to a central device (usually a switch or hub). Each device has its own dedicated connection to the central point.
 - The hub can be passive in nature i.e., not an intelligent hub such as broadcasting devices, at the same time the hub can be intelligent known as an active hub. Active hubs have repeaters in them.
