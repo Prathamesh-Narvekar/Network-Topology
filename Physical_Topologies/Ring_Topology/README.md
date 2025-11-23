@@ -1,4 +1,8 @@
 # Ring Topology
+<div align = center>
+  
+  ![Ring_Topology](https://github.com/user-attachments/assets/70f461fe-eddf-422c-927c-60bd87749a6b)
+</div>
 
 ## What is Ring Topology?
 - Ring topology is a network design where each device is connected to exactly two other devices, forming a circular path. Data travels in one direction (or sometimes both) around the ring until it reaches its destination.
