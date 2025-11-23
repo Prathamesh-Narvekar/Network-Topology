@@ -1,4 +1,8 @@
 # Bus Topology
+<div align = center>
+
+  ![Bus_Topology](https://github.com/user-attachments/assets/f381e869-5cd4-48e2-a33f-b7e655624b23)
+</div>
 
 ## What is Bus Topology?
 - Bus topology is a network setup where all devices are connected to a single central cable (called the bus or backbone). Data travels along this cable, and every device checks if the data is meant for it.It is bi-directional.
