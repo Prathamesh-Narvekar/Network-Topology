@@ -1,4 +1,7 @@
 # Tree Topology
+<div align = center>
+<img width="783" height="472" alt="Tree_Topology" src="https://github.com/user-attachments/assets/1aa1ee42-bc92-4c44-a7e1-f3d92bc23fbe" />
+</div>
 
 ## What is Tree Topology?
 - Tree topology is a hierarchical network structure that combines characteristics of star and bus topologies. 
